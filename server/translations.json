@@ -243,7 +243,7 @@
         "color": "Color",
         "grid": "Cuadrícula",
         "eraser": "Borrador",
-        "white-out": "Blanqueado",
+        "white-out": "Corrector",
         "index_title": "¡Bienvenido a WBO!",
         "introduction_paragraph": "WBO es una pizarra colaborativa en línea, <a href=\"https://github.com/lovasoa/whitebophir\" title=\"libre como la libertad de expresión, no libre como una cerveza gratis. Este software se lanza bajo la licencia GPL\">libre y de Código abierto</a>, que permite a muchos usuarios dibujar simultáneamente en una gran pizarra virtual. La pizarra se actualiza en tiempo real para todos los usuarios conectados y su estado siempre es persistente. Se puede utilizar para muchos propósitos diferentes, incluyendo arte, entretenimiento, diseño y enseñanza.",
         "share_instructions": "Para colaborar en un dibujo en tiempo real con alguien, simplemente envíele la <abbr title=\"un enlace tipo: https://wbo.ophir.dev/boards/el-codigo-de-tu-pizarra\">URL</abbr> de la pizarra que ya creaste.",
